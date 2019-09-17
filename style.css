@@ -33,9 +33,10 @@ figcaption {
 
 #details {
   display: block;
+  justify-content: center;
 }
 
 #details div {
   float: left;
-  justify-content: center;
+  
 }
