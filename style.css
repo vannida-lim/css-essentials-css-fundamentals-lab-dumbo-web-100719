@@ -8,8 +8,9 @@ header {
   text-align: center;
 }
 
-img.center {
-  align-content: center;
+img {
+ display: block;
+ margin: 0 auto;
 }
 
 nav a {
