@@ -33,7 +33,7 @@ figcaption {
 
 #details {
   display: block;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 #details div {
