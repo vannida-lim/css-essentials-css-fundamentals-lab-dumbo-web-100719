@@ -33,11 +33,11 @@ figcaption {
 
 #details {
   display: block;
-  justify-content: space-around;
 }
 
 #details div {
   float: left;
   background-color: red;
-  
+  text-align: center;
+  width: 25%;
 }
